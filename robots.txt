@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jaredwy.github.io/nullbit/sitemap.xml 
